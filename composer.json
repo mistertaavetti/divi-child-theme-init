@@ -1,0 +1,14 @@
+{
+  "name": "tvt/divi-child",
+  "type": "wordpress-theme",
+  "license": "MIT",
+  "description": "Elegant Themes' Divi Theme Builder Child Theme",
+  "homepage": "https://elegantthemes.com",
+  "authors": [
+    {
+      "name": "mistertaavetti",
+      "email": "mistertaavetti@gmail.com",
+      "homepage": "https://mistertaavetti.com"
+    }
+  ]
+}
